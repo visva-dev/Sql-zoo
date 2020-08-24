@@ -1,2 +1,2 @@
 # Sql-zoo
-Microverse sql project
+Microverse sql project.
