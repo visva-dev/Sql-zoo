@@ -13,12 +13,6 @@ Microverse sql project. In this project we learn how to use SQL, here is answers
 - Linkedin: [@Visvaldas-Rapalis](https://www.linkedin.com/in/visvaldas-rapalis/)
 - Website: [good-developer.com](https://good-developer.com)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/RNtaate/Enumerables/issues).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
